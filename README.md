@@ -22,4 +22,4 @@ The project is simple yet challenging current I am trying to explore my learning
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-### The last Note from My side is __Thank You__ to come here. And try to learn, grow and contribute in Opem-source community.
+#### The last Note from My side is __Thank You__ to come here. And try to learn, grow and contribute in Open-source community.
